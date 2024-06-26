@@ -259,9 +259,9 @@
                 "May buy [Cult of the Maker] buildings for [10] [Faith] [in cities following this religion] at an increasing price ([5])",
                 "May buy [Basic Pantheon] buildings for [1] [Faith] [in capital] <before the [Renaissance era]>",
 //                "May buy [Religious Practice] buildings for [1] [Faith] [in capital] <before the [Renaissance era]>",
-                "[+1 Production] from all [Basic Religion] buildings",
-                "[+2 Production] from all [Enhanced Religion] buildings",
-                "[+4 Production] from all [Religious Wonder] buildings",
+                "[+3 Production] from all [Basic Religion] buildings",
+                "[+6 Production] from all [Enhanced Religion] buildings",
+                "[+12 Production] from all [Religious Wonder] buildings",
 //                "Enables conversion of city production to [Faith] <in cities with a [Cult of the Maker]>"//this was originally on the aforementioned building, but didn't actually *work*.
 //Arg, that doesn't work either. So just put this whole thing on hold I suppose.
                  "[+1 Faith] from all [Production] buildings <in cities with a [Cult of the Maker]>"
@@ -594,9 +594,9 @@
      "type": "Founder",
      "uniques": [
                  "May buy [Cult of the Maker] buildings for [10] [Faith] [in cities following this religion] at an increasing price ([5])",
-                 "[+1 Production] from all [Basic Religion] buildings",
-                 "[+2 Production] from all [Enhanced Religion] buildings",
-                 "[+4 Production] from all [Religious Wonder] buildings",
+                 "[+3 Production] from all [Basic Religion] buildings",
+                 "[+6 Production] from all [Enhanced Religion] buildings",
+                 "[+12 Production] from all [Religious Wonder] buildings",
 //                 "Enables conversion of city production to [Faith] <in cities with a [Cult of the Maker]>"
                  "[+1 Faith] from all [Production] buildings <in cities with a [Cult of the Maker]>"
                 ]
