@@ -874,7 +874,7 @@
      "cost": 1,
      "uniques": [
                 "Gain a free [Pantheon] belief",
-                "Limited to [2] per Civilization",
+                "Limited to [3] per Civilization",
                 "Unbuildable", 
                 "Unsellable",//Is this the problem? LET'S FIND OUT!
                 "Hidden when religion is disabled",
