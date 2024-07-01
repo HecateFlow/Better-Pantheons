@@ -1019,9 +1019,9 @@
      "cityStrength": 2,
      "cost": 1,
      "uniques": [
-                "May choose [2] additional [Founder] beliefs when [founding] a religion",
-                "May choose [1] additional [Enhancer] beliefs when [enhancing] a religion",
-                "May choose [2] additional belief(s) of any type when [enhancing] a religion",
+                "May choose [3] additional [Founder] beliefs when [founding] a religion",
+                "May choose [2] additional [Enhancer] beliefs when [enhancing] a religion",
+                "May choose [3] additional belief(s) of any type when [enhancing] a religion",
                 "Indicates the capital city"
                 ]
   }
