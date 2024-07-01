@@ -2,16 +2,16 @@
   {
     "name": "Warrior Cult",
     "uniques": [
-               "Earn [75]% of the damage done to [Military] units as [Faith]",
-               "[+50]% XP gained from combat",
-               "[+2] Movement",
+               "Earn [50]% of the damage done to [Military] units as [Faith]",
+               "[+75]% XP gained from combat",
+               "[+1] Movement",
                "Can move immediately once bought"
                ]
   },
   {
     "name": "Hunter Cult",
     "uniques": [
-               "[+2] Sight", 
+               "[+3] Sight", 
                "[+2] Movement",
                "Can move after attacking"
                ]
@@ -19,27 +19,27 @@
   {
     "name": "Hunting Rites",
     "uniques": [
-               "[+3] Range",
-               "May withdraw before melee ([50]%)",
+               "[+2] Range",
+               "May withdraw before melee ([60]%)",
                "Ranged attacks may be performed over obstacles"
                ]
   },
   {
     "name": "Defender of the Faith",
     "uniques": [
-               "[+35]% Strength <when fighting in [Friendly Land] tiles>",
+               "[+30]% Strength <when fighting in [Friendly Land] tiles>",
                ]
   },
   {
     "name": "Justified",
     "uniques": [
-               "[+35]% Strength <when fighting in [Enemy Land] tiles>",
+               "[+30]% Strength <when fighting in [Enemy Land] tiles>",
                ]
   },
   {
     "name": "Zeal",
     "uniques": [
-               "[+25]% Spread Religion Strength",
+               "[+50]% Spread Religion Strength",
                ]
   },
 //Obviously these are for things that would be nigh impossible to implement properly
