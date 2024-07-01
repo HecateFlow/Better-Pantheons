@@ -874,7 +874,7 @@
      "cost": 1,
      "uniques": [
                 "Gain a free [Pantheon] belief",
-                "Limited to [3] per Civilization",
+                "Limited to [1] per Civilization",
                 "Unbuildable", 
                 "Unsellable",//Is this the problem? LET'S FIND OUT!
                 "Hidden when religion is disabled",
@@ -1019,9 +1019,9 @@
      "cityStrength": 2,
      "cost": 1,
      "uniques": [
-                "May choose [3] additional [Founder] beliefs when [founding] a religion",
-                "May choose [2] additional [Enhancer] beliefs when [enhancing] a religion",
-                "May choose [3] additional belief(s) of any type when [enhancing] a religion",
+                "May choose [4] additional [Founder] beliefs when [founding] a religion",
+                "May choose [4] additional [Enhancer] beliefs when [enhancing] a religion",
+                "May choose [4] additional belief(s) of any type when [enhancing] a religion",
                 "Indicates the capital city"
                 ]
   }
