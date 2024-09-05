@@ -2,10 +2,10 @@
   {
     "name": "Warrior Cult",
     "uniques": [
-               "Earn [50]% of the damage done to [Military] units as [Faith]",
-               "Earn [50]% of the damage done to [Military] units as [Culture]",
-               "[+75]% XP gained from combat",
-               "[+1] Movement",
+               "Earn [75]% of the damage done to [Military] units as [Faith]",
+               "Earn [250]% of the damage done to [Military] units as [Culture]",
+               "[+150]% XP gained from combat",
+               "[+2] Movement",
                "Can move immediately once bought"
                ]
   },
