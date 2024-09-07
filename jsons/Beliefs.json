@@ -867,6 +867,7 @@
      "type": "Enhancer",
      "uniques": [
                 "[+1 Food] from [Coast] tiles [in cities following this religion]", 
+                "[+10]% Yield from every [Water]",
                 "May buy [Shrine of Seas] buildings for [10] [Faith] [in cities following this religion] at an increasing price ([5])"
                 ]
   },
@@ -908,6 +909,11 @@
      "type": "Follower",
      "uniques": ["May buy [{Military} {Land}] units with [Faith] for [2] times their normal Production cost"]
   }, //Just removes obsolescence 
+  {
+     "name": "Inspired Researchers",
+     "type": "Follower",
+     "uniques": ["[+1 Science] from every [Faith]"]
+  },
   {
      "name": "Liturgical Drama",
      "type": "Follower",
